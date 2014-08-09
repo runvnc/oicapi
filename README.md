@@ -13,7 +13,9 @@ Node.js SDK for OIC API.
 
 ### Containers
 
-### Domains
+### Domain Registration
+
+### SSL
 
 ### SSH Keys
 
@@ -21,6 +23,6 @@ Node.js SDK for OIC API.
 
 ### Info
 
-
+### Delete
 
 

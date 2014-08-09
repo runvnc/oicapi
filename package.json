@@ -1,0 +1,22 @@
+{
+  "name": "oicapi",
+  "version": "0.0.1",
+  "description": "OIC SDK for Node.js",
+  "main": "lib/oic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "request":""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/runvnc/oicapi.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/runvnc/oicapi/issues"
+  },
+  "homepage": "https://github.com/runvnc/oicapi"
+}
